@@ -9,3 +9,5 @@
 - [Origin UI](https://originui.com/)
 - [cult ui](https://www.cult-ui.com/) (animations)
 - [SyntaxUI](https://syntaxui.com/)
+- [KokonutUI](https://kokonutui.com/)
+- [reactbits](https://www.reactbits.dev/)
