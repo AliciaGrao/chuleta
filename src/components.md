@@ -1,13 +1,16 @@
 # Components
 
 - [shadcn](https://ui.shadcn.com/)
+- [Shadcn Form](https://www.shadcn-form.com/)
+- [Shadcn Extension](https://shadcn-extension.vercel.app/)
+- [Shadcn expansions](https://shadcnui-expansions.typeart.cc/)
 - [Magic UI](https://magicui.design/) (animations)
 - [Aceternity UI](https://ui.aceternity.com/) (animations)
 - [tremor](https://tremor.so/)
-- [Shadcn Extension](https://shadcn-extension.vercel.app/)
 - [ANIMATA](https://animata.design/) (animations)
 - [Origin UI](https://originui.com/)
 - [cult ui](https://www.cult-ui.com/) (animations)
 - [SyntaxUI](https://syntaxui.com/)
 - [KokonutUI](https://kokonutui.com/)
 - [reactbits](https://www.reactbits.dev/)
+- [motion-primitives](https://motion-primitives.com/)
