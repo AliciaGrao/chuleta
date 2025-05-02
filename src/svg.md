@@ -7,3 +7,7 @@
 - [React-icons](https://react-icons.github.io/react-icons/) (Icons)
 - [flaticon](https://www.flaticon.es/)
 - [freepik](https://www.freepik.es/)
+
+
+### Converter
+- [React SVGR](https://react-svgr.com/playground/)
