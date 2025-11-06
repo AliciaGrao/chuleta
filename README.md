@@ -2,6 +2,7 @@
 
 - [SVGs](./src/svg.md)
 - [Components](./src/components.md)
+- [Color](./src/color.md)
 - [Inspo Design](./src/design-inspiration.md)
 
 ### Optimization
