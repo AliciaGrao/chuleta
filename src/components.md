@@ -14,3 +14,4 @@
 - [KokonutUI](https://kokonutui.com/)
 - [reactbits](https://www.reactbits.dev/)
 - [motion-primitives](https://motion-primitives.com/)
+- [Animate UI](https://animate-ui.com/)
