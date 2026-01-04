@@ -4,6 +4,7 @@
 - [Components](./src/components.md)
 - [Color](./src/color.md)
 - [Inspo Design](./src/design-inspiration.md)
+- [Inspo Animation](./src/animation-inspiration.md)
 
 ### Optimization
 
